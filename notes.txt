@@ -1,0 +1,17 @@
+Encapsulation- we are able to group related variables and functions together thus reducing complexity and increase reusability
+Abstraction- hide the details and complexity of the program thus reducing complexity and impact of change
+INheritence- allows us eliminate redundant code
+Polymorphism - allows us to refactor ugly code such as switch statements 
+object- is a collectionof key value pairs
+method- this is a function inside an object, and is used to define some logic
+property - this is fundamentally used to hold values
+we have three ways of creatinng an object- object literals, factory function and constructor function
+Every object always has a constructor property in it
+To note: in javascript functions are objects
+value types in javascript- numbers, strings, boolean, symbol, undefined, null(Are defined as primitives)
+Reference types- objects, functions and arrays (Are defined as objects)
+object in javascript are dynamic, thus we can add more properties, delete other value proprties, modify 
+We can either use the bracket or dot notation to access property- if we have special characters then its valid to use the  bracket notation
+ie. 'center-location'- to access this we use the bracket notation 
+to delete we use the delete property
+read more on key properties of objects, for and in operators
